@@ -40,6 +40,10 @@ I've since worked nearly non-stop to get multiplayer working well. I am still on
 ![](img/both_yarnys_recolored.jpg)
 *both of us are now as we were in Unravel Two in terms of color. her Parsec virtual gamepad input now also gets discovered by the engine and works independently of me*
 
+![](img/yarn_attach_works.png)
+*got yarn attachment working, though the thread is maximally long, so I will need to fix that next (the connecting thread remains red. I wanted to fix it, but given the finale track of the game and the game's themes
+around the color red, I decided to keep it; seems fitting)*
+
 <br>
 If you have anyone whom you care about or just want to have a fun time with online, buy the second game. if you want to try my mod, then buy the first one as well and go through the game together<br>
 <a href="https://store.steampowered.com/app/1225570/">Unravel Two</a><br>
