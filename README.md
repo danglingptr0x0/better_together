@@ -55,8 +55,31 @@ If you have anyone whom you care about or just want to have a fun time with onli
 <br>
 <br>
 <br>
+### devlog
+we've tried for the first time to play the first game together using this mod, but she was attached to the sofa via the thread. I must have made a mistake somewhere
+then, moments later, it segfaulted at a hand-IK request in her playercontroller. I feel like an idiot a bit since I was at least somewhat confident that it'd work, but oh, well
+fixing it now and we'll retry later
+
+![](img/crash_one.png)
+*crash one, at which point I thought it was because we collided*
+
+![](img/crash_two.png)
+*crash two*
 
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 (I started crying like a small child when I listened to the entire soundtrack again while working on this. the fun and emotional experience of the second game, plus the soundtrack in and of itself, were
 quite enough for that. but I didn't feel sad. it was more like ... joy? *Bright as Day* ([TIDAL](https://tidal.com/track/105667761), [Spotify](https://open.spotify.com/track/72Tj7rIfjQhYv7BoMoRcsQ)), especially)
