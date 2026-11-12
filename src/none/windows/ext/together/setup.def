@@ -1,0 +1,6 @@
+LIBRARY boxie-setup
+EXPORTS
+    better_together_setup_size_get
+    better_together_setup_init
+    better_together_setup_enter
+    better_together_setup_report

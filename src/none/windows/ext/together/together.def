@@ -1,0 +1,7 @@
+EXPORTS
+    better_together_spawn_req
+    better_together_spawn_report
+    better_together_input_controllers_sel
+    better_together_input_submit
+    better_together_input_report
+    dangmod_init=better_together_init
