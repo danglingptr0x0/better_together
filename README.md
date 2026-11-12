@@ -5,7 +5,7 @@ one day I discovered the soundtrack of the first Unravel when looking for new ac
 but the algo served up *The Red Thread* by Frida Johansson and Henrik Oja ([TIDAL](https://tidal.com/track/125088565), [Spotify](https://open.spotify.com/track/19ZKAGRawnY8BrRB6bISr6)). I really liked it, so I heart'd it and continued my discovery session.
 later on, at some point when slowly migrating from TIDAL to my personal Jellyfin lib and buying music for it, I came upon *The Red Thread* again
 I got the rest of the soundtrack and also the one of Unravel Two, which is, in my opinion, even more emotional. I wanted to appreciate it more, so I bought both games on Steam.
-I didn't have anyone to play the second game with, so they both just idled in my lib. however, recently, someone and I played and completed Unravel Two and had so much fine while at it
+I didn't have anyone to play the second game with, so they both just idled in my lib. however, recently, someone and I played and completed Unravel Two and had so much fun while at it
 we didn't get most of the story, but we laughed so hard through it. it was a really great experience. then, after two or three sessions, by the end of it, even without narrative context,
 it got pretty emotional for me. the last cutscene and the credits. the credits, especially, because you could see in them that the dev team cared immensely about the game. it was a passion project
 driven by actual emotions, loss, love, connection, mutual assistance, instead of what we see most these days, which is greed. EA's stupid launcher and DRM notwithstanding, I have nothing to say against the game
@@ -61,6 +61,8 @@ we've tried for the first time to play the first game together using this mod, b
 then, moments later, it segfaulted at a hand-IK request in her playercontroller. I feel like an idiot a bit since I was at least somewhat confident that it'd work, but oh, well
 fixing it now and we'll retry later
 
+as of 2026/11/13, I am not working on this mod anymore. certain circumstances have changed, and I no longer feel like I want to finish it. feel free to pick it up
+
 ![](img/crash_one.png)
 *crash one, at which point I thought it was because we collided*
 
@@ -82,5 +84,6 @@ fixing it now and we'll retry later
 <br>
 <br>
 <br>
+
 (I started crying like a small child when I listened to the entire soundtrack again while working on this. the fun and emotional experience of the second game, plus the soundtrack in and of itself, were
 quite enough for that. but I didn't feel sad. it was more like ... joy? *Bright as Day* ([TIDAL](https://tidal.com/track/105667761), [Spotify](https://open.spotify.com/track/72Tj7rIfjQhYv7BoMoRcsQ)), especially)
