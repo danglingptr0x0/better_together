@@ -1,6 +1,3 @@
-## development stopped
-
-
 # Better Together
 (named after the co-op achievement in *Unravel Two*)
 ## why?
